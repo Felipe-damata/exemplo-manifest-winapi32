@@ -1,0 +1,5 @@
+1 24 "app.manifest"
+
+#define IDI_MYICON 101
+
+IDI_MYICON ICON "app.ico"

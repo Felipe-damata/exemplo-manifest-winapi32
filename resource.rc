@@ -1,0 +1,4 @@
+#include "resource.h"
+
+IDI_ICON1 ICON "Shy.ico"
+1 RT_MANIFEST "app.manifest"
